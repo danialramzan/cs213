@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SM213">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SM213/SimpleMachine213.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SM213/sm213.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
