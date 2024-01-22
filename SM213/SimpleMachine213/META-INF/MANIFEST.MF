@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.5
+Created-By: 1.8.0_241-b07 (Oracle Corporation)
+Built-By: brx
+Main-Class: SimpleMachine$Sm213
+Implementation-Title: Simple Machine
+Implementation-Vendor: Mike Feeley.  University of British Columbia.  
+ Department of Computer Science.
+Implementation-Version: 2.7
+
